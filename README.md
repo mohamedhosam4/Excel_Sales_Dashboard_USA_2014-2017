@@ -2,7 +2,7 @@
 
 ## 🧾 Introduction
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![dashboard_screenshot.png](https://github.com/mohamedhosam4/Excel_Sales_Dashboard_USA_2014-2017/blob/main/Screenshot%202025-06-02%20205429.png)
 
 This project was developed to build an interactive sales dashboard using Microsoft Excel, aimed at analyzing sales data from 2014 to 2017 within the United States market. The dashboard provides detailed insights into sales, profit, shipping, and customer trends, leveraging advanced Excel features without relying on external tools.
 
